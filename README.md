@@ -25,7 +25,7 @@ Website: [Mitochondrial Imaging Diagnostics Center](https://research.jefferson.e
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/Mitocare-Center.git
+    git clone https://github.com/aron-andresi/Mitocare-Center.git
     ```
 2. Install Conda and CUDA 12.3.
 3. Create the Conda environments:
